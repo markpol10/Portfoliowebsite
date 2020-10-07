@@ -460,14 +460,14 @@ h1 {
 
 @keyframes animated-text{
   from{width: 0;}
-  to{width: 560px;}
+  to{width: 580px;}
 }
 
 @media only screen and (max-width: 800px) { 
 
 @keyframes animated-text{
   from{width: 0;}
-  to{width: 455px;}
+  to{width: 465px;}
 }
 
 }
@@ -476,7 +476,7 @@ h1 {
 
 @keyframes animated-text{
   from{width: 0;}
-  to{width: 380px;}
+  to{width: 390px;}
 }
 }
 
